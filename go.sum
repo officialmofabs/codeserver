@@ -916,8 +916,8 @@ github.com/coder/pq v1.10.5-0.20250630052411-a259f96b6102 h1:ahTJlTRmTogsubgRVGO
 github.com/coder/pq v1.10.5-0.20250630052411-a259f96b6102/go.mod h1:AlVN5x4E4T544tWzH6hKfbfQvm3HdbOxrmggDNAPY9o=
 github.com/coder/pretty v0.0.0-20230908205945-e89ba86370e0 h1:3A0ES21Ke+FxEM8CXx9n47SZOKOpgSE1bbJzlE4qPVs=
 github.com/coder/pretty v0.0.0-20230908205945-e89ba86370e0/go.mod h1:5UuS2Ts+nTToAMeOjNlnHFkPahrtDkmpydBen/3wgZc=
-github.com/coder/preview v1.0.3-0.20250701142654-c3d6e86b9393 h1:l+m2liikn8JoEv6C22QIV4qseolUfvNsyUNA6JJsD6Y=
-github.com/coder/preview v1.0.3-0.20250701142654-c3d6e86b9393/go.mod h1:efDWGlO/PZPrvdt5QiDhMtTUTkPxejXo9c0wmYYLLjM=
+github.com/coder/preview v1.0.3 h1:et0/frnLB68PPwsGaa1KAZQdBKBxNSqzMplYKsBpcNA=
+github.com/coder/preview v1.0.3/go.mod h1:hQtBEqOFMJ3SHl9Q9pVvDA9CpeCEXBwbONNK29+3MLk=
 github.com/coder/quartz v0.2.1 h1:QgQ2Vc1+mvzewg2uD/nj8MJ9p9gE+QhGJm+Z+NGnrSE=
 github.com/coder/quartz v0.2.1/go.mod h1:vsiCc+AHViMKH2CQpGIpFgdHIEQsxwm8yCscqKmzbRA=
 github.com/coder/retry v1.5.1 h1:iWu8YnD8YqHs3XwqrqsjoBTAVqT9ml6z9ViJ2wlMiqc=
@@ -1376,8 +1376,8 @@ github.com/hashicorp/hc-install v0.9.2 h1:v80EtNX4fCVHqzL9Lg/2xkp62bbvQMnvPQ0G+O
 github.com/hashicorp/hc-install v0.9.2/go.mod h1:XUqBQNnuT4RsxoxiM9ZaUk0NX8hi2h+Lb6/c0OZnC/I=
 github.com/hashicorp/hcl v1.0.1-vault-7 h1:ag5OxFVy3QYTFTJODRzTKVZ6xvdfLLCA1cy/Y6xGI0I=
 github.com/hashicorp/hcl v1.0.1-vault-7/go.mod h1:XYhtn6ijBSAj6n4YqAaf7RBPS4I06AItNorpy+MoQNM=
-github.com/hashicorp/hcl/v2 v2.23.0 h1:Fphj1/gCylPxHutVSEOf2fBOh1VE4AuLV7+kbJf3qos=
-github.com/hashicorp/hcl/v2 v2.23.0/go.mod h1:62ZYHrXgPoX8xBnzl8QzbWq4dyDsDtfCRgIq1rbJEvA=
+github.com/hashicorp/hcl/v2 v2.24.0 h1:2QJdZ454DSsYGoaE6QheQZjtKZSUs9Nh2izTWiwQxvE=
+github.com/hashicorp/hcl/v2 v2.24.0/go.mod h1:oGoO1FIQYfn/AgyOhlg9qLC6/nOJPX3qGbkZpYAcqfM=
 github.com/hashicorp/logutils v1.0.0 h1:dLEQVugN8vlakKOUE3ihGLTZJRB4j+M2cdTm/ORI65Y=
 github.com/hashicorp/logutils v1.0.0/go.mod h1:QIAnNjmIWmVIIkWDTG1z5v++HQmx9WQRO+LraFDTW64=
 github.com/hashicorp/terraform-exec v0.23.0 h1:MUiBM1s0CNlRFsCLJuM5wXZrzA3MnPYEsiXmzATMW/I=
