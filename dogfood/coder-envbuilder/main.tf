@@ -154,7 +154,7 @@ module "filebrowser" {
 
 module "coder-login" {
   source   = "registry.coder.com/coder/coder-login/coder"
-  version  = "1.0.15"
+  version  = "1.1.0"
   agent_id = coder_agent.dev.id
 }
 
