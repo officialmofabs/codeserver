@@ -129,7 +129,7 @@ require (
 	github.com/go-jose/go-jose/v4 v4.1.0
 	github.com/go-logr/logr v1.4.3
 	github.com/go-playground/validator/v10 v10.27.0
-	github.com/gofrs/flock v0.12.0
+	github.com/gofrs/flock v0.13.0
 	github.com/gohugoio/hugo v0.147.0
 	github.com/golang-jwt/jwt/v4 v4.5.2
 	github.com/golang-migrate/migrate/v4 v4.18.1
@@ -178,7 +178,7 @@ require (
 	github.com/spf13/afero v1.14.0
 	github.com/spf13/pflag v1.0.6
 	github.com/sqlc-dev/pqtype v0.3.0
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.1
 	github.com/swaggo/http-swagger/v2 v2.0.1
 	github.com/swaggo/swag v1.16.2
 	github.com/tidwall/gjson v1.18.0
@@ -204,7 +204,7 @@ require (
 	golang.org/x/net v0.41.0
 	golang.org/x/oauth2 v0.29.0
 	golang.org/x/sync v0.15.0
-	golang.org/x/sys v0.33.0
+	golang.org/x/sys v0.37.0
 	golang.org/x/term v0.32.0
 	golang.org/x/text v0.26.0
 	golang.org/x/tools v0.33.0
