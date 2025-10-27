@@ -103,7 +103,7 @@ require (
 	github.com/coder/pretty v0.0.0-20230908205945-e89ba86370e0
 	github.com/coder/quartz v0.2.1
 	github.com/coder/retry v1.5.1
-	github.com/coder/serpent v0.10.0
+	github.com/coder/serpent v0.11.0
 	github.com/coder/terraform-provider-coder/v2 v2.8.0
 	github.com/coder/websocket v1.8.13
 	github.com/coder/wgtunnel v0.1.13-0.20240522110300-ade90dfb2da0
