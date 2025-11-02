@@ -5,7 +5,7 @@
 # Future improvements will include versioning and including the version
 # in the template push.
 
-FROM codercom/enterprise-base:ubuntu@sha256:22837dba6f92f075c29797652699df748ec223e04dc87627f3d2bae0a6bce7bd
+FROM codercom/enterprise-base:ubuntu@sha256:15797212dab7da4fda9ce2bb27eecc693703ba1361c65dde50764110cf9dd562
 
 ARG DEBIAN_FRONTEND=noninteractive
 
