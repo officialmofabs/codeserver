@@ -348,7 +348,7 @@ module "windsurf" {
 module "zed" {
   count      = data.coder_workspace.me.start_count
   source     = "dev.registry.coder.com/coder/zed/coder"
-  version    = "1.0.0"
+  version    = "1.1.4"
   agent_id   = coder_agent.dev.id
   agent_name = "dev"
   folder     = local.repo_dir
