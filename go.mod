@@ -106,7 +106,7 @@ require (
 	github.com/coder/serpent v0.10.0
 	github.com/coder/terraform-provider-coder/v2 v2.8.0
 	github.com/coder/websocket v1.8.13
-	github.com/coder/wgtunnel v0.1.13-0.20240522110300-ade90dfb2da0
+	github.com/coder/wgtunnel v0.2.0
 	github.com/coreos/go-oidc/v3 v3.14.1
 	github.com/coreos/go-systemd v0.0.0-20191104093116-d3cd4ed1dbcf
 	github.com/creack/pty v1.1.21
@@ -489,6 +489,7 @@ require (
 )
 
 require (
+	cdr.dev/slog/v3 v3.0.0-rc1 // indirect
 	cel.dev/expr v0.23.0 // indirect
 	cloud.google.com/go v0.120.0 // indirect
 	cloud.google.com/go/iam v1.4.1 // indirect

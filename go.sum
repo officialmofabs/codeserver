@@ -1,5 +1,7 @@
 cdr.dev/slog v1.6.2-0.20250703074222-9df5e0a6c145 h1:Mk4axSLxKw3hjkf3PffBLQYta7nPVIWObuKCPDWgQLc=
 cdr.dev/slog v1.6.2-0.20250703074222-9df5e0a6c145/go.mod h1:NaoTA7KwopCrnaSb0JXTC0PTp/O/Y83Lndnq0OEV3ZQ=
+cdr.dev/slog/v3 v3.0.0-rc1 h1:EN7Zim6GvTpAeHQjI0ERDEfqKbTyXRvgH4UhlzLpvWM=
+cdr.dev/slog/v3 v3.0.0-rc1/go.mod h1:iO/OALX1VxlI03mkodCGdVP7pXzd2bRMvu3ePvlJ9ak=
 cel.dev/expr v0.23.0 h1:wUb94w6OYQS4uXraxo9U+wUAs9jT47Xvl4iPgAwM2ss=
 cel.dev/expr v0.23.0/go.mod h1:hLPLo1W4QUmuYdA72RBX06QTs6MXw941piREPl3Yfiw=
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
@@ -936,8 +938,8 @@ github.com/coder/trivy v0.0.0-20250527170238-9416a59d7019 h1:MHkv/W7l9eRAN9gOG0q
 github.com/coder/trivy v0.0.0-20250527170238-9416a59d7019/go.mod h1:eqk+w9RLBmbd/cB5XfPZFuVn77cf/A6fB7qmEVeSmXk=
 github.com/coder/websocket v1.8.13 h1:f3QZdXy7uGVz+4uCJy2nTZyM0yTBj8yANEHhqlXZ9FE=
 github.com/coder/websocket v1.8.13/go.mod h1:LNVeNrXQZfe5qhS9ALED3uA+l5pPqvwXg3CKoDBB2gs=
-github.com/coder/wgtunnel v0.1.13-0.20240522110300-ade90dfb2da0 h1:C2/eCr+r0a5Auuw3YOiSyLNHkdMtyCZHPFBx7syN4rk=
-github.com/coder/wgtunnel v0.1.13-0.20240522110300-ade90dfb2da0/go.mod h1:qANbdpqyAGlo2bg+4gQKPj24H1ZWa3bQU2Q5/bV5B3Y=
+github.com/coder/wgtunnel v0.2.0 h1:yy9dE9ntoNdx/q98CH9uV2cQk1UEKSwPgITy3Xx+Wiw=
+github.com/coder/wgtunnel v0.2.0/go.mod h1:4Ne8vzzdHwkM9BnPW2zDvidvFi5IfEbkecx5JH+0zjY=
 github.com/coder/wireguard-go v0.0.0-20240522052547-769cdd7f7818 h1:bNhUTaKl3q0bFn78bBRq7iIwo72kNTvUD9Ll5TTzDDk=
 github.com/coder/wireguard-go v0.0.0-20240522052547-769cdd7f7818/go.mod h1:fAlLM6hUgnf4Sagxn2Uy5Us0PBgOYWz+63HwHUVGEbw=
 github.com/containerd/continuity v0.4.5 h1:ZRoN1sXq9u7V6QoHMcVWGhOwDFqZ4B9i5H6un1Wh0x4=
