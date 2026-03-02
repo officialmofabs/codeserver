@@ -173,12 +173,12 @@ require (
 	github.com/prometheus/common v0.63.0
 	github.com/quasilyte/go-ruleguard/dsl v0.3.22
 	github.com/robfig/cron/v3 v3.0.1
-	github.com/shirou/gopsutil/v4 v4.25.4
+	github.com/shirou/gopsutil/v4 v4.26.2
 	github.com/skratchdot/open-golang v0.0.0-20200116055534-eef842397966
 	github.com/spf13/afero v1.14.0
 	github.com/spf13/pflag v1.0.6
 	github.com/sqlc-dev/pqtype v0.3.0
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.11.1
 	github.com/swaggo/http-swagger/v2 v2.0.1
 	github.com/swaggo/swag v1.16.2
 	github.com/tidwall/gjson v1.18.0
@@ -204,7 +204,7 @@ require (
 	golang.org/x/net v0.41.0
 	golang.org/x/oauth2 v0.29.0
 	golang.org/x/sync v0.15.0
-	golang.org/x/sys v0.33.0
+	golang.org/x/sys v0.41.0
 	golang.org/x/term v0.32.0
 	golang.org/x/text v0.26.0
 	golang.org/x/tools v0.33.0
@@ -294,7 +294,7 @@ require (
 	github.com/dop251/goja v0.0.0-20241024094426-79f3a7efcdbd // indirect
 	github.com/dustin/go-humanize v1.0.1
 	github.com/eapache/queue/v2 v2.0.0-20230407133247-75960ed334e4 // indirect
-	github.com/ebitengine/purego v0.8.3 // indirect
+	github.com/ebitengine/purego v0.10.0 // indirect
 	github.com/elastic/go-windows v1.0.0 // indirect
 	github.com/erikgeiser/coninput v0.0.0-20211004153227-1c3628e74d0f // indirect
 	github.com/felixge/httpsnoop v1.0.4 // indirect
@@ -422,8 +422,8 @@ require (
 	github.com/tidwall/match v1.1.1 // indirect
 	github.com/tidwall/pretty v1.2.1 // indirect
 	github.com/tinylib/msgp v1.2.5 // indirect
-	github.com/tklauser/go-sysconf v0.3.15 // indirect
-	github.com/tklauser/numcpus v0.10.0 // indirect
+	github.com/tklauser/go-sysconf v0.3.16 // indirect
+	github.com/tklauser/numcpus v0.11.0 // indirect
 	github.com/u-root/uio v0.0.0-20240209044354-b3d14b93376a // indirect
 	github.com/vishvananda/netlink v1.2.1-beta.2 // indirect
 	github.com/vishvananda/netns v0.0.4 // indirect
