@@ -217,7 +217,7 @@ require (
 	gopkg.in/yaml.v3 v3.0.1
 	gvisor.dev/gvisor v0.0.0-20240509041132-65b30f7869dc
 	kernel.org/pub/linux/libs/security/libcap/cap v1.2.73
-	storj.io/drpc v0.0.33
+	storj.io/drpc v1.0.0
 	tailscale.com v1.80.3
 )
 
