@@ -178,7 +178,7 @@ require (
 	github.com/spf13/afero v1.14.0
 	github.com/spf13/pflag v1.0.6
 	github.com/sqlc-dev/pqtype v0.3.0
-	github.com/stretchr/testify v1.10.0
+	github.com/stretchr/testify v1.12.1
 	github.com/swaggo/http-swagger/v2 v2.0.1
 	github.com/swaggo/swag v1.16.2
 	github.com/tidwall/gjson v1.18.0
@@ -194,7 +194,7 @@ require (
 	go.opentelemetry.io/otel/exporters/otlp/otlptrace/otlptracegrpc v1.35.0
 	go.opentelemetry.io/otel/sdk v1.37.0
 	go.opentelemetry.io/otel/trace v1.37.0
-	go.uber.org/atomic v1.11.0
+	go.uber.org/atomic v1.12.0
 	go.uber.org/goleak v1.3.1-0.20240429205332-517bace7cc29
 	go.uber.org/mock v0.5.0
 	go4.org/netipx v0.0.0-20230728180743-ad4cb58a6516
@@ -395,7 +395,6 @@ require (
 	github.com/pion/transport/v2 v2.2.10 // indirect
 	github.com/pion/transport/v3 v3.0.7 // indirect
 	github.com/pkg/errors v0.9.1 // indirect
-	github.com/pmezard/go-difflib v1.0.1-0.20181226105442-5d4384ee4fb2 // indirect
 	github.com/power-devops/perfstat v0.0.0-20240221224432-82ca36839d55 // indirect
 	github.com/prometheus/procfs v0.15.1 // indirect
 	github.com/rcrowley/go-metrics v0.0.0-20201227073835-cf1acfcdf475 // indirect
@@ -535,6 +534,7 @@ require (
 	go.opentelemetry.io/contrib/detectors/gcp v1.35.0 // indirect
 	go.opentelemetry.io/contrib/instrumentation/google.golang.org/grpc/otelgrpc v0.60.0 // indirect
 	go.opentelemetry.io/otel/sdk/metric v1.37.0 // indirect
+	go.yaml.in/yaml/v3 v3.0.5 // indirect
 	google.golang.org/genai v1.12.0 // indirect
 	k8s.io/utils v0.0.0-20241210054802-24370beab758 // indirect
 )
