@@ -1,6 +1,6 @@
 module github.com/coder/coder/v2
 
-go 1.24.4
+go 1.26.0
 
 // Required until a v3 of chroma is created to lazily initialize all XML files.
 // None of our dependencies seem to use the registries anyways, so this
@@ -77,7 +77,7 @@ replace github.com/coder/terraform-provider-coder/v2 => github.com/coder/terrafo
 
 require (
 	cdr.dev/slog v1.6.2-0.20250703074222-9df5e0a6c145
-	cloud.google.com/go/compute/metadata v0.7.0
+	cloud.google.com/go/compute/metadata v0.10.0
 	github.com/acarl005/stripansi v0.0.0-20180116102854-5a71ef0e047d
 	github.com/adrg/xdg v0.5.0
 	github.com/ammario/tlru v0.4.0
@@ -204,7 +204,7 @@ require (
 	golang.org/x/net v0.41.0
 	golang.org/x/oauth2 v0.29.0
 	golang.org/x/sync v0.15.0
-	golang.org/x/sys v0.33.0
+	golang.org/x/sys v0.46.0
 	golang.org/x/term v0.32.0
 	golang.org/x/text v0.26.0
 	golang.org/x/tools v0.33.0
